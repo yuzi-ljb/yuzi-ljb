@@ -4,7 +4,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=yuzi-ljb&show_icons=true&theme=radical&count_private=true&time=2025010715)(https://t.me/yuzi_ljb)
+![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=yuzi-ljb&show_icons=true&theme=radical&count_private=true&time=2025010715)
 
 [![Telegram](https://img.shields.io/badge/Telegram-yuziyuzi-blue)](https://t.me/yuzi_ljb)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@yuziyu-zs4xe)
