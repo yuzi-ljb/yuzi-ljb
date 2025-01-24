@@ -6,7 +6,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzi-ljb&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![Telegram](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://t.me/yuzi_ljb)
+[![Telegram](https://img.shields.io/badge/Telegram-yuziyuzi-blue)](https://t.me/yuzi_ljb)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)]((https://www.youtube.com/@yuziyu-zs4xe))
 
 
@@ -15,7 +15,7 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](image/图片.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/yuzi-ljb/count.svg)
 
