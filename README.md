@@ -15,7 +15,7 @@
 
 </div>
 
-![图片](image/YUZI.PNG)
+![图片](image/YUZI.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/yuzi-ljb/count.svg)
 
