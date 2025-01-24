@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzi-ljb&show_icons=true&theme=tokyonight)]
 
 [![Telegram](https://img.shields.io/badge/Telegram-yuziyuzi-blue)](https://t.me/yuzi_ljb)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)]((https://www.youtube.com/@yuziyu-zs4xe))
+[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@yuziyu-zs4xe)
 
 
 ![](https://img.shields.io/badge/性格-内向-pink) 
